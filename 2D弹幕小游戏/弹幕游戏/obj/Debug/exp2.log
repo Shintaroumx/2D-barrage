@@ -1,0 +1,7 @@
+﻿  ofDragBall2App.cpp
+d:\visualstudio\of_v0.9.3_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visualstudio\of_v0.9.3_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  exp2.vcxproj -> D:\VisualStudio\of_v0.9.3_vs_release\apps\myApps\exp2\bin\exp2_debug.exe
+  exp2.vcxproj -> bin\exp2_debug.pdb (Full PDB)
+  
+  	                   9	D:\VisualStudio\of_v0.9.3_vs_release\export\vs\Win32\
